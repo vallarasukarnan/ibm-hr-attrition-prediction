@@ -87,7 +87,7 @@ This model provides HR with a data-driven approach to identify employees at risk
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/
